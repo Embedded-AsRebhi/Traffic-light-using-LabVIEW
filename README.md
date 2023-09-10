@@ -1,1 +1,2 @@
 # Traffic-light-using-LabVIEW
+In LabVIEW, design a traffic light control system using a For Loop and a state machine architecture. The For Loop continuously cycles through the red, amber, and green light states. Inside the state machine, each state corresponds to a specific light color, with timers managing their durations. This setup allows for a realistic simulation of a traffic light, where the sequence of red, brief amber, and green light activations repeats continuously.
